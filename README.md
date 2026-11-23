@@ -5,11 +5,11 @@
 
 <div align="center">
 
-![](https://cdn.discordapp.com/attachments/1574480730451611800/1574482719784566874/Untitled361_20261124015202.png?ex=6b05cecc&is=6b047d4c&hm=bd45f52dd5776f2f188737c77ed9b2af02287048383d4597478c66294f1a5abc&) ${{\color{#FFFFD5}{\textsf{ ωı𝗽 ωı𝗽 ωı𝗽 ωı𝗽  }}}}$
+![](https://cdn.discordapp.com/attachments/1574480730451611800/1574482719784566874/Untitled361_20261124015202.png?ex=6b05cecc&is=6b047d4c&hm=bd45f52dd5776f2f188737c77ed9b2af02287048383d4597478c66294f1a5abc&) ${{\color{#FFFFFF}{\textsf{ ωı𝗽 ωı𝗽 ωı𝗽 ωı𝗽  }}}}$
 <br>
 <br> 
 <br>
-![](https://komarev.com/ghpvc/?username=princessatoru&label=　ʚ⠀ິɞ　&style=flat&color=FFA9BC)
+![](https://komarev.com/ghpvc/?username=princessatoru&label=　ʚ⠀ິɞ　&style=flat&color=#FFFFFF)
 <br>
 
 <div align="center">
@@ -17,7 +17,7 @@
     <tr>
       <td>
         <p align="center">
-          ${{\color{#FFFFD5}{\textsf{　ωı𝗽 ωı𝗽 　}}}}$ &nbsp;&nbsp; ${{\color{#FFDECA}{\textsf{　　ωı𝗽　}}}}$ &nbsp;&nbsp; ${{\color{#FFA9BC}{\textsf{　ωı𝗽　}}}}$ &nbsp;&nbsp;&nbsp;&nbsp; ${{\color{#FA7FAB}{\textsf{　ωı𝗽　}}}}$ &nbsp;&nbsp; ${{\color{#FA7FAB}{\textsf{　ωı𝗽 ωı𝗽 ωı𝗽 ωı𝗽　}}}}$
+          ${{\color{#FFFFFF}{\textsf{　ωı𝗽 ωı𝗽 　}}}}$ &nbsp;&nbsp; ${{\color{#FFFFFF}{\textsf{　　ωı𝗽　}}}}$ &nbsp;&nbsp; ${{\color{#FFFFFF}{\textsf{　ωı𝗽　}}}}$ &nbsp;&nbsp;&nbsp;&nbsp; ${{\color{#FFFFFF}{\textsf{　ωı𝗽　}}}}$ &nbsp;&nbsp; ${{\color{#FFFFFF}{\textsf{　ωı𝗽 ωı𝗽 ωı𝗽 ωı𝗽　}}}}$
         </p>
       </td>
     </tr>
@@ -26,16 +26,16 @@
 
 <div align="center">
   
-${{\color{#FFFFD5}{\textsf{⏔𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟⏔}}}}$
+${{\color{#FFFFFF}{\textsf{⏔𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟⏔}}}}$
 
 <div align="center">
 
 <img src="https://cdn.discordapp.com/attachments/1574480730451611800/1574480790459519237/Untitled359_20261124014356.png?ex=6b05cd00&is=6b047b80&hm=62eb9ccb83df0ec8d473ff8df535c89a1f8ec10e1fc577a8f162ac45515b4cce&" width="150" align="right" alt="bunbun" />
 
-### ${{\color{#FFFFD5}{\textsf{k᥆ოі kᥲᥕᥲ}}}}$
-${{\color{#FFDECA}{\textsf{ოy}}}}$ ${{\color{#FFA9BC}{\textsf{һᥙᑲᑲy}}}}$ [eric](https://github.com/leoncest)
+### ${{\color{#FFFFFF}{\textsf{k᥆ოі kᥲᥕᥲ}}}}$
+${{\color{#FFFFFF}{\textsf{ოy}}}}$ ${{\color{#FFFFFF}{\textsf{һᥙᑲᑲy}}}}$ [eric](https://github.com/leoncest)
 
-${{\color{#FFFFD5}{\textsf{05}}}}$ ${{\color{#FFDECA}{\textsf{5}}}}$ ${{\color{#FFA9BC}{\textsf{2026}}}}$<br>${{\color{#FA7FAB}{\textsf{< 6}}}}$ ${{\color{#FA7FAB}{\textsf{m᥆ᥒ𝗍һs 3}}}}$
+${{\color{#FFFFFF}{\textsf{05}}}}$ ${{\color{#FFFFFF}{\textsf{5}}}}$ ${{\color{#FFFFFF}{\textsf{2026}}}}$<br>${{\color{#FFFFFF}{\textsf{< 6}}}}$ ${{\color{#FFFFFF}{\textsf{m᥆ᥒ𝗍һs 3}}}}$
 
 <br clear="right"/>
 
@@ -57,7 +57,7 @@ ${{\color{#FFFFD5}{\textsf{05}}}}$ ${{\color{#FFDECA}{\textsf{5}}}}$ ${{\color{#
 
 <details>
   <summary>
-     ${{\color{#FFA9BC}{\texttt{　ძ᥆kі4　ഒ　}}}}$
+     ${{\color{#FFFFFF}{\texttt{　ძ᥆kі4　ഒ　}}}}$
   </summary>
 
 
@@ -79,7 +79,7 @@ ${{\color{#FFFFD5}{\textsf{05}}}}$ ${{\color{#FFDECA}{\textsf{5}}}}$ ${{\color{#
       <p align="center">
 <details>
   <summary>
-     ${{\color{#FA7FAB}{\texttt{　ძᥒі　₍ᐢᐢ₎　}}}}$
+     ${{\color{#FFFFFF}{\texttt{　ძᥒі　₍ᐢᐢ₎　}}}}$
   </summary>
 
 <br>
@@ -150,6 +150,6 @@ sһі⍴s, ⍴r᥆sһі⍴⍴ᥱrs, ძᥲrksһі⍴⍴ᥱrs, ᥊ᥱᥒ᥆⍴һ�
 
 <div align="center">
 
-${{\color{#FFFFD5}{\textsf{⏔𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟⏔}}}}$
+${{\color{#FFFFFF}{\textsf{⏔𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟⏔}}}}$
   
 ![](https://cdn.discordapp.com/attachments/1574480730451611800/1574481657082150952/Untitled359_20261124014735.png?ex=6b05cdcf&is=6b047c4f&hm=e71a125b7f8653e3647998d0cf80788e0506ca1ee1d3c12e7c8533a58b70ed65&) 
