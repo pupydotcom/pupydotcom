@@ -33,9 +33,6 @@ ${{\color{#FFFFFF}{\textsf{⏔𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟𓎟�
 <img src="https://cdn.discordapp.com/attachments/1574480730451611800/1574480790459519237/Untitled359_20261124014356.png?ex=6b05cd00&is=6b047b80&hm=62eb9ccb83df0ec8d473ff8df535c89a1f8ec10e1fc577a8f162ac45515b4cce&" width="150" align="right" alt="bunbun" />
 
 ### ${{\color{#FFFFFF}{\textsf{k᥆ოі kᥲᥕᥲ}}}}$
-${{\color{#FFFFFF}{\textsf{ოy}}}}$ ${{\color{#FFFFFF}{\textsf{һᥙᑲᑲy}}}}$ [eric](https://github.com/leoncest)
-
-${{\color{#FFFFFF}{\textsf{05}}}}$ ${{\color{#FFFFFF}{\textsf{5}}}}$ ${{\color{#FFFFFF}{\textsf{2026}}}}$<br>${{\color{#FFFFFF}{\textsf{< 6}}}}$ ${{\color{#FFFFFF}{\textsf{m᥆ᥒ𝗍һs 3}}}}$
 
 <br clear="right"/>
 
